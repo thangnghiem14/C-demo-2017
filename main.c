@@ -3,9 +3,11 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-int enternumber()
+int main()
  {
 	printf("Please enter a number:\n");
+	printf("Hien ra di nhe");
+	
 	
 	// Tao ra mot bien ten la " bat ky, o day là val" de luu tru gia tri kieu so nguyen
 	int val;
